@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/davidsonsilva/trilha-estudos-ia">
-    <img src="trilha-estudos.png" alt="Trilha de Estudos - Agentes de IA" width="100%" />
+    <img src="trilha-estudos.jpg" alt="Trilha de Estudos - Agentes de IA" width="100%" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ Ideal para desenvolvedores, cientistas de dados e engenheiros que querem se espe
 
 ## 🚀 Como Usar Esta Trilha
 
-1. **Salve a imagem** `trilha-estudos.png` como seu mapa mental de referência.
+1. **Salve a imagem** `trilha-estudos.jpg` como seu mapa mental de referência.
 2. **Siga o cronograma** de 16 semanas (ou adapte ao seu ritmo).
 3. **Pratique em cada módulo** — a teoria só fixa com código rodando.
 4. **Construa os projetos** listados abaixo ao final de cada fase.
