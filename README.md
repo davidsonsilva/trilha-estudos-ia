@@ -17,9 +17,16 @@
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
   </a>
   <a href="https://github.com/davidsonsilva/trilha-estudos-ia">
-    <img src="https://img.shields.io/badge/Status-Em%20construção-orange?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Disponível-orange?style=for-the-badge" alt="Status" />
   </a>
 </p>
+
+<p align="center">
+  <a href="trilha-para-estudos-de-ia.md">
+    <img src="https://img.shields.io/badge/📖-Trilha%20Completa-blue?style=for-the-badge" alt="Trilha Completa" />
+  </a>
+</p>
+
 
 <p align="center">
   <strong>“A IA não substitui profissionais. Mas profissionais que usam IA substituem quem não usa.”</strong>
@@ -51,7 +58,11 @@ Ideal para desenvolvedores, cientistas de dados e engenheiros que querem se espe
 | 🟩 **4 — Produção** | 11 Observabilidade · 12 Deploy & Infra · 13 Segurança · 14 Escalabilidade | Levar ao mundo real |
 | 🟥 **5 — Carreira** | 15 Portfólio & Comunidade | Se destacar no mercado |
 
-> 📖 O conteúdo detalhado de cada módulo (links, livros, cursos e práticas) está organizado nas **Issues**, **Wiki** ou em pastas dedicadas deste repositório. Sinta-se à vontade para explorar e contribuir!
+> ## 📖 Conteúdo Completo
+
+Todo o conteúdo detalhado da trilha (módulos, recursos, links e práticas) está disponível em:
+
+👉 **[Trilha para Estudos de IA](trilha-para-estudos-de-ia.md)**
 
 ---
 
